@@ -1,6 +1,10 @@
 # Ansible Role: Docker Install (Ubuntu)
 
-Роль Ansible для установки и настройки Docker Engine и связанных компонентов на Ubuntu.
+## Установка
+
+```sh
+ansible-galaxy role install Alvald1.docker_role
+```
 
 ## Описание
 
